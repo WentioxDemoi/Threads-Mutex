@@ -1,4 +1,4 @@
-#include "includes.h"
+#include "../includes/includes.h"
 
 // Displays the correct program usage to the user
 void usage(void)
