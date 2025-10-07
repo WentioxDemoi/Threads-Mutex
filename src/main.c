@@ -1,4 +1,5 @@
 #include "../includes/includes.h"
+#include "../includes/engine.h"
 
 // Displays the correct program usage to the user
 void usage(void)
@@ -47,4 +48,5 @@ int main(int ac, char **av)
             exit(1);
         }
     }
+    global_engine(av);
 }
