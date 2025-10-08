@@ -41,3 +41,6 @@ Le binaire `panoramix` est généré à la racine du projet.
 make clean
 ```
 Supprime les objets. Utilisez `make fclean` pour supprimer aussi le binaire.
+
+## A rajouter
+- Meilleure gestion de la mémoire en utilisant Free de partout pour libérer la mémoire
